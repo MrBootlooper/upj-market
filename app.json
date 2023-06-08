@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "UPJMARKET",
+    "slug": "UPJMARKET",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logodepan.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3B87F9"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.michaelwahyu.UPJMARKET"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logodepan.png",
+        "backgroundColor": "#3B87F9"
+      },
+      "package": "com.michaelwahyu.UPJMARKET"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "10733f7c-ccdf-47c4-852b-074355c2a277"
+      }
+    }
+  }
+}
